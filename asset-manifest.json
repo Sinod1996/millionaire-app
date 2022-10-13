@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/millionaire-app/static/css/main.a7f902ec.css",
+    "main.js": "/millionaire-app/static/js/main.6e361795.js",
+    "static/js/845.0bfb7b21.chunk.js": "/millionaire-app/static/js/845.0bfb7b21.chunk.js",
+    "static/media/bg.jpg": "/millionaire-app/static/media/bg.c137ccd722d64133b4df.jpg",
+    "static/media/play.wav": "/millionaire-app/static/media/play.8e5f6d1d81d4e1414b95.wav",
+    "static/media/correct.wav": "/millionaire-app/static/media/correct.160572d72c858155072e.wav",
+    "static/media/wrong.wav": "/millionaire-app/static/media/wrong.e946821894ae9b0a0d6f.wav",
+    "index.html": "/millionaire-app/index.html",
+    "main.a7f902ec.css.map": "/millionaire-app/static/css/main.a7f902ec.css.map",
+    "main.6e361795.js.map": "/millionaire-app/static/js/main.6e361795.js.map",
+    "845.0bfb7b21.chunk.js.map": "/millionaire-app/static/js/845.0bfb7b21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7f902ec.css",
+    "static/js/main.6e361795.js"
+  ]
+}
